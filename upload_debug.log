@@ -1,0 +1,46 @@
+2026-01-05 17:41:57 - === START UPLOAD PROCESS ===
+2026-01-05 17:41:57 - User ID: 5
+2026-01-05 17:41:57 - Title: asdasdasd
+2026-01-05 17:41:57 - Category: Algebra
+2026-01-05 17:41:57 - Thumbnail uploaded: 1767631317_5_WhatsApp Image 2025-12-11 at 9.58.07 AM.jpeg
+2026-01-05 17:41:57 - Main file uploaded: 1767631317_5_10.png
+2026-01-05 17:41:57 - File type detected: image
+2026-01-05 17:41:57 - SQL Query: INSERT INTO contents (user_id, title, description, category,  thumbnail_path, file_path, file_type, status, created_at) 
+              VALUES ('5', 'asdasdasd', 'asdasdasdas', 'Algebra',  '1767631317_5_WhatsApp Image 2025-12-11 at 9.58.07 AM.jpeg', '1767631317_5_10.png', 'image', 'published', NOW())
+2026-01-05 17:41:57 - Content saved to database with ID: 1
+2026-01-05 17:41:57 - Question image uploaded: 1767631317_5_q0_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg
+2026-01-05 17:48:35 - === START UPLOAD PROCESS ===
+2026-01-05 17:48:35 - User ID: 5
+2026-01-05 17:48:35 - Title: soal basic
+2026-01-05 17:48:35 - Category: Basic Math
+2026-01-05 17:48:35 - Thumbnail uploaded: 1767631715_5_QR Maps 2025-1.png
+2026-01-05 17:48:35 - Main file uploaded: 1767631715_5_Kehadiran Maps 2025.png
+2026-01-05 17:48:35 - File type detected: image
+2026-01-05 17:48:35 - SQL Query: INSERT INTO contents (user_id, title, description, category,  thumbnail_path, file_path, file_type, status, created_at) 
+              VALUES ('5', 'soal basic', 'gatau males', 'Basic Math',  '1767631715_5_QR Maps 2025-1.png', '1767631715_5_Kehadiran Maps 2025.png', 'image', 'published', NOW())
+2026-01-05 17:48:35 - Content saved to database with ID: 2
+2026-01-05 17:48:35 - Question image uploaded: 1767631715_5_q0_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg
+2026-01-05 17:48:36 - Quiz saved: 1 questions, 4 answers
+2026-01-05 17:48:36 - VERIFICATION SUCCESS - Content found:
+2026-01-05 17:48:36 -   ID: 2
+2026-01-05 17:48:36 -   User ID: 5
+2026-01-05 17:48:36 -   Title: soal basic
+2026-01-05 17:48:36 -   File: 1767631715_5_Kehadiran Maps 2025.png
+2026-01-05 17:48:36 -   Type: image
+2026-01-05 17:52:39 - === START UPLOAD PROCESS ===
+2026-01-05 17:52:39 - User ID: 5
+2026-01-05 17:52:39 - Title: aaaa
+2026-01-05 17:52:39 - Category: Basic Math
+2026-01-05 17:52:39 - Thumbnail uploaded: 1767631959_5_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg
+2026-01-05 17:52:39 - Main file uploaded: 1767631959_5_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg
+2026-01-05 17:52:39 - File type detected: image
+2026-01-05 17:52:40 - SQL Query: INSERT INTO contents (user_id, title, description, category,  thumbnail_path, file_path, file_type, status, created_at) 
+              VALUES ('5', 'aaaa', 'aaaaa', 'Basic Math',  '1767631959_5_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg', '1767631959_5_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg', 'image', 'published', NOW())
+2026-01-05 17:52:40 - Content saved to database with ID: 3
+2026-01-05 17:52:40 - Quiz saved: 3 questions, 6 answers
+2026-01-05 17:52:40 - VERIFICATION SUCCESS - Content found:
+2026-01-05 17:52:40 -   ID: 3
+2026-01-05 17:52:40 -   User ID: 5
+2026-01-05 17:52:40 -   Title: aaaa
+2026-01-05 17:52:40 -   File: 1767631959_5_WhatsApp Image 2025-12-04 at 10.22.33_c78b00a4.jpg
+2026-01-05 17:52:40 -   Type: image
